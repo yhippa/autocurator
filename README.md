@@ -241,7 +241,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 - **Issues**: Open a GitHub issue for bugs or feature requests
 - **Discussions**: Use GitHub Discussions for questions and community chat
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [your-email@example.com](mailto:richard.yhip@gmail.com)
 
 ---
 
